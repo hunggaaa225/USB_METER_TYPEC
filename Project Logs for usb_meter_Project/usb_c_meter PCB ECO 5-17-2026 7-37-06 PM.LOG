@@ -1,0 +1,86 @@
+Remove Pin from Net: Failed to remove Pin
+Remove Pin from Net: Failed to remove Pin
+Remove Pin from Net: Failed to remove Pin
+Remove Pin from Net: Failed to remove Pin
+Remove Pin from Net: Failed to remove Pin
+Remove Pin from Net: Failed to remove Pin
+Remove Pin from Net: Failed to remove Pin
+Remove Pin from Net: Failed to remove Pin
+Remove Pin from Net: Failed to remove Pin
+Removed Member From Class: ClassName=Sheet4 Member=J?
+Removed Member From Class: ClassName=Sheet4 Member=USB??
+Add Component: Footprint Not Found USB-SMD_GT-USB-7010B
+Added Component: Designator=Type_C_Plug?(USB-TYPE-C-SMD_GT-USB-8016A)
+Add component (AddParameter): Name = "Add into BOM"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Center Height"; Value = "0.15mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Connect-Disconnect Life"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Connector Type"; Value = "Type-C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Convert to PCB"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Current Rating-Power"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet"; Value = "https://item.szlcsc.com/datasheet/GT-USB-8016A/3445597.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Detection color"; Value = "Black"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Device"; Value = "GT-USB-8016A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Gender"; Value = "Male"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "JLCPCB Part Class"; Value = "Extended Part"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part Name"; Value = "Type-C ? ??"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Length"; Value = "12mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "G-Switch(??)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part"; Value = "GT-USB-8016A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Type"; Value = "Laminated board"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Contacts"; Value = "9P"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Ports"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature"; Value = "-40?~+85?"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Protocol Standard"; Value = "USB 2.0"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Footprint"; Value = "SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part"; Value = "C2988371"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Symbol"; Value = "GT-USB-8016A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating"; Value = "-"; VariantName = "[No Variations]"
+Add Pin To Net: Unknown Pin: Pin Tyce_C_Socket?-1
+Add Pin To Net: Unknown Pin: Pin Tyce_C_Socket?-2
+Add Pin To Net: Unknown Pin: Pin Tyce_C_Socket?-4
+Add Pin To Net: Unknown Pin: Pin Tyce_C_Socket?-10
+Add Pin To Net: Unknown Pin: Pin Tyce_C_Socket?-11
+Add Pin To Net: Unknown Pin: Pin Tyce_C_Socket?-12
+Add Pin To Net: Unknown Pin: Pin Tyce_C_Socket?-13
+Add Pin To Net: Unknown Pin: Pin Tyce_C_Socket?-14
+Add Pin To Net: Unknown Pin: Pin Tyce_C_Socket?-15
+Add Pin To Net: Unknown Pin: Pin Tyce_C_Socket?-16
+Added Pin To Net: NetName=GND Pin=Type_C_Plug?-1
+Added Pin To Net: NetName=GND Pin=Type_C_Plug?-2
+Added Pin To Net: NetName=GND Pin=Type_C_Plug?-3
+Added Pin To Net: NetName=GND Pin=Type_C_Plug?-4
+Added Pin To Net: NetName=GND Pin=Type_C_Plug?-A1
+Added Pin To Net: NetName=CC1 Pin=Type_C_Plug?-A5
+Added Pin To Net: NetName=VBUS_OUT Pin=Type_C_Plug?-A9
+Added Pin To Net: NetName=D+ Pin=Type_C_Plug?-A6
+Added Net: Name=D+
+Added Pin To Net: NetName=D- Pin=Type_C_Plug?-A7
+Added Net: Name=D-
+Add Net: Net with name "NetC?_2" already exists
+Added Member To Class: ClassName=Sheet4 Member=Component ? C
+Added Member To Class: ClassName=Sheet4 Member=Component ? C
+Added Member To Class: ClassName=Sheet4 Member=Component ? C
+Added Member To Class: ClassName=Sheet4 Member=Component ? R
+Added Member To Class: ClassName=Sheet4 Member=Component ? 100nF
+Added Member To Class: ClassName=Sheet4 Member=Component ? 100nF
+Added Member To Class: ClassName=Sheet4 Member=Component ? C
+Added Member To Class: ClassName=Sheet4 Member=Component ? C
+Added Member To Class: ClassName=Sheet4 Member=Component C? 104
+Added Member To Class: ClassName=Sheet4 Member=Component C? 104
+Added Member To Class: ClassName=Sheet4 Member=Component C? 106
+Added Member To Class: ClassName=Sheet4 Member=Component C? 22pF
+Added Member To Class: ClassName=Sheet4 Member=Component C? 476
+Added Member To Class: ClassName=Sheet4 Member=Component R? 0
+Added Member To Class: ClassName=Sheet4 Member=Component R? 10K
+Added Member To Class: ClassName=Sheet4 Member=Component R? 15K
+Added Member To Class: ClassName=Sheet4 Member=Component R? 10K
+Added Member To Class: ClassName=Sheet4 Member=Component R? 47K
+Added Member To Class: ClassName=Sheet4 Member=Component R? 10K
+Added Member To Class: ClassName=Sheet4 Member=Component R? 10K
+Added Member To Class: ClassName=Sheet4 Member=Component R? 10K
+Added Member To Class: ClassName=Sheet4 Member=Component R? 10K
+Add Class Member: Failed to add class member : Component Tyce_C_Socket? GT-USB-7010B
+Added Member To Class: ClassName=Sheet4 Member=Component Type_C_Plug? GT-USB-8016A
+Added Member To Class: ClassName=Sheet4 Member=Component U? AP63201WU-7
+Added Member To Class: ClassName=Sheet4 Member=Component U? STM32F103C8T6

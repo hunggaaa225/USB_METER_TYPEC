@@ -1,0 +1,67 @@
+Change Component Designator: OldDesignator=? NewDesignator=1
+Change Component Designator: OldDesignator=? NewDesignator=2
+Change Component Designator: OldDesignator=? NewDesignator=3
+Change Component Designator: OldDesignator=? NewDesignator=4
+Change Component Designator: OldDesignator=? NewDesignator=5
+Change Component Designator: OldDesignator=? NewDesignator=6
+Change Component Designator: OldDesignator=? NewDesignator=7
+Change Component Designator: OldDesignator=? NewDesignator=8
+Change Component Designator: OldDesignator=? NewDesignator=9
+Change Component Designator: OldDesignator=C? NewDesignator=C1
+Change Component Designator: OldDesignator=C? NewDesignator=C2
+Change Component Designator: OldDesignator=C? NewDesignator=C3
+Change Component Designator: OldDesignator=C? NewDesignator=C4
+Change Component Designator: OldDesignator=C? NewDesignator=C5
+Change Component Designator: OldDesignator=C? NewDesignator=C6
+Change Component Designator: OldDesignator=J? NewDesignator=J1
+Change Component Designator: OldDesignator=L? NewDesignator=L1
+Change Component Designator: OldDesignator=P? NewDesignator=P1
+Change Component Designator: OldDesignator=R? NewDesignator=R1
+Change Component Designator: OldDesignator=R? NewDesignator=R2
+Change Component Designator: OldDesignator=R? NewDesignator=R3
+Change Component Designator: OldDesignator=R? NewDesignator=R4
+Change Component Designator: OldDesignator=R? NewDesignator=R5
+Change Component Designator: OldDesignator=R? NewDesignator=R6
+Change Component Designator: OldDesignator=R? NewDesignator=R7
+Change Component Designator: OldDesignator=R? NewDesignator=R8
+Change Component Designator: OldDesignator=R? NewDesignator=R9
+Change Component Designator: OldDesignator=R? NewDesignator=R10
+Change Component Designator: OldDesignator=SW? NewDesignator=SW1
+Change Component Designator: OldDesignator=Type_C_Plug? NewDesignator=Type_C_Plug1
+Change Component Designator: OldDesignator=U? NewDesignator=U1
+Change Component Designator: OldDesignator=U? NewDesignator=U2
+Change Component Designator: OldDesignator=U? NewDesignator=U3
+Change Component Designator: OldDesignator=U? NewDesignator=U4
+Change Net Name : Old Net Name=Net?_2 New Net Name=Net1_2
+Change Net Name : Old Net Name=NetC?_1 New Net Name=NetC1_1
+Change Net Name : Old Net Name=NetC?_2 New Net Name=NetC5_2
+Change Net Name : Old Net Name=NetR?_2 New Net Name=NetR2_2
+Added Pin To Net: NetName=NetC1_2 Pin=C1-2
+Added Pin To Net: NetName=NetC1_2 Pin=L1-1
+Added Pin To Net: NetName=NetC1_2 Pin=U3-5
+Added Net: Name=NetC1_2
+Added Member To Class: ClassName=Sheet4 Member=Component 1 100nF
+Added Member To Class: ClassName=Sheet4 Member=Component 2 1uF
+Added Member To Class: ClassName=Sheet4 Member=Component 3 100nF
+Added Member To Class: ClassName=Sheet4 Member=Component 5 C
+Added Member To Class: ClassName=Sheet4 Member=Component 6 C
+Added Member To Class: ClassName=Sheet4 Member=Component 7 C
+Added Member To Class: ClassName=Sheet4 Member=Component 8 R
+Added Member To Class: ClassName=Sheet4 Member=Component 9 C
+Added Member To Class: ClassName=Sheet4 Member=Component C1 104
+Added Member To Class: ClassName=Sheet4 Member=Component C2 104
+Added Member To Class: ClassName=Sheet4 Member=Component C3 106
+Added Member To Class: ClassName=Sheet4 Member=Component C4 104
+Added Member To Class: ClassName=Sheet4 Member=Component C6 22pF
+Added Member To Class: ClassName=Sheet4 Member=Component R1 0
+Added Member To Class: ClassName=Sheet4 Member=Component R2 10K
+Added Member To Class: ClassName=Sheet4 Member=Component R3 10K
+Added Member To Class: ClassName=Sheet4 Member=Component R4 47K
+Added Member To Class: ClassName=Sheet4 Member=Component R5 10K
+Added Member To Class: ClassName=Sheet4 Member=Component R6 10K
+Added Member To Class: ClassName=Sheet4 Member=Component R7 10K
+Added Member To Class: ClassName=Sheet4 Member=Component R9 15K
+Added Member To Class: ClassName=Sheet4 Member=Component R10 0.01
+Added Member To Class: ClassName=Sheet4 Member=Component U1 STM32F103C8T6
+Added Member To Class: ClassName=Sheet4 Member=Component U2 DM-OLED096-636
+Added Member To Class: ClassName=Sheet4 Member=Component U4 INA226AIDGSR

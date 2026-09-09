@@ -1,0 +1,24 @@
+Change Component Footprint: Designator=L1 Old Footprint=L 0603 (1608) New Footprint=IND-SMD_L4.5-W4.0
+Change Component Comment : Designator=L1 Old Comment=10uH New Comment=CD43-10uH
+Change Component Comment : Designator=C6 Old Comment=22pF New Comment=22uF
+Change Component Comment : Designator=C15 Old Comment=22pF New Comment=22uF
+Change component parameters: Designator = "L1" ("L1"); Footprint = "L 0603 (1608)"; UniqueID = "\LFEFGWDR" ("\LFEFGWDR")
+Change component parameters (AddParameter): Name = "AddInBom"; Value = "yes"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Channel ID"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ConvertToPcb"; Value = "yes"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Device"; Value = "CD43-10uH"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "FootprintName"; Value = "IND-SMD_L4.5-W4.0"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Group ID"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "JLCPCB Part Class"; Value = "Extended Part"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LCSC Part Name"; Value = "CD43-10uH"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ManufacturerPart"; Value = "CD43-10uH"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ModelId"; Value = "fc5e8c13a5db48cc9753193df7da33420819f05c4eef4c71ace90d822a990e87"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ModelName"; Value = "IND-SMD_L4.5-W4.0-H3.2"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ModelTransform"; Value = "157.48,170.221,0,90,0,0,0,-0.591,0"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Reuse Block"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Footprint"; Value = "IND-SMD_L4.5-W4.0"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SupplierPart"; Value = "C9900008796"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Symbol"; Value = "CD43-10UH"; VariantName = "[No Variations]"

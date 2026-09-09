@@ -1,0 +1,21 @@
+----------------------------------------------------------------------------------------------------------------------------------
+NCDrill File Report For: usb_c_meter.PcbDoc   29/05/2026  1:05:23 SA
+----------------------------------------------------------------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII RoundHoles File : usb_c_meter-RoundHoles.TXT
+ASCII SlotHoles File : usb_c_meter-SlotHoles.TXT
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T1      12mil (0.3mm)                                             Round             18        PTH        0.00inch (0.00mm)
+T2      20mil (0.5mm)                                             Round             1         PTH        0.00inch (0.00mm)
+T3      20mil (0.5mm)                                             Slot              2         PTH        0.00inch (0.00mm)
+T4      26mil (0.65mm)                                            Slot              4         PTH        0.00inch (0.00mm)
+T5      32mil (0.8mm)                                             Round             4         PTH        0.00inch (0.00mm)
+T6      39mil (1mm)                                               Round             4         PTH        0.00inch (0.00mm)
+T7      79mil (2mm)                                               Round             4         PTH        0.00inch (0.00mm)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              37
+
+Total Processing Time (hh:mm:ss) : 00:00:00

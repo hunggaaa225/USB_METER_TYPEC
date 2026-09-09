@@ -1,0 +1,3 @@
+Layer Pairs Export File for PCB: C:\Users\khanh\Documents\Zalo Receive Files\final\final\usb_c_meter.PcbDoc
+LayersSetName=Top_Bot_Thru_Holes|DrillFile=usb_c_meter-roundholes.txt|DrillLayers=gtl,gbl
+LayersSetName=Top_Bot_Slot_Holes|DrillFile=usb_c_meter-slotholes.txt|DrillLayers=gtl,gbl

@@ -1,0 +1,5 @@
+Change Component Designator: OldDesignator=C_FEMALE NewDesignator=J1
+Change Component Designator: OldDesignator=C_MALE NewDesignator=Type_C_Plug1
+Added Pin To Net: NetName=CC1 Pin=J1-B5
+Added Member To Class: ClassName=Sheet4 Member=Component C3 10uF
+Added Member To Class: ClassName=Sheet4 Member=Component U2 DM-OLED096-636

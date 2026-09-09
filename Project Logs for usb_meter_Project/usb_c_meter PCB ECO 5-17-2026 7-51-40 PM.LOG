@@ -1,0 +1,26 @@
+Added Pin To Net: NetName=CC1 Pin=J?-A5
+Add Net: Net with name "NetC?_2" already exists
+Added Member To Class: ClassName=Sheet4 Member=Component ? C
+Added Member To Class: ClassName=Sheet4 Member=Component ? C
+Added Member To Class: ClassName=Sheet4 Member=Component ? C
+Added Member To Class: ClassName=Sheet4 Member=Component ? 100nF
+Added Member To Class: ClassName=Sheet4 Member=Component ? R
+Added Member To Class: ClassName=Sheet4 Member=Component ? C
+Added Member To Class: ClassName=Sheet4 Member=Component ? C
+Added Member To Class: ClassName=Sheet4 Member=Component ? 100nF
+Added Member To Class: ClassName=Sheet4 Member=Component C? 104
+Added Member To Class: ClassName=Sheet4 Member=Component C? 476
+Added Member To Class: ClassName=Sheet4 Member=Component C? 106
+Added Member To Class: ClassName=Sheet4 Member=Component C? 22pF
+Added Member To Class: ClassName=Sheet4 Member=Component C? 104
+Added Member To Class: ClassName=Sheet4 Member=Component R? 10K
+Added Member To Class: ClassName=Sheet4 Member=Component R? 0
+Added Member To Class: ClassName=Sheet4 Member=Component R? 10K
+Added Member To Class: ClassName=Sheet4 Member=Component R? 10K
+Added Member To Class: ClassName=Sheet4 Member=Component R? 10K
+Added Member To Class: ClassName=Sheet4 Member=Component R? 47K
+Added Member To Class: ClassName=Sheet4 Member=Component R? 10K
+Added Member To Class: ClassName=Sheet4 Member=Component R? 15K
+Added Member To Class: ClassName=Sheet4 Member=Component R? 10K
+Added Member To Class: ClassName=Sheet4 Member=Component U? STM32F103C8T6
+Added Member To Class: ClassName=Sheet4 Member=Component U? AP63201WU-7

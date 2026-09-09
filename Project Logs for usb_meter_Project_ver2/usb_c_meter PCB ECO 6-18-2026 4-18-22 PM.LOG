@@ -1,0 +1,14 @@
+Removed Pin From Net: NetName=NetC5_2 Pin=R4-1
+Change Component Comment : Designator=R4 Old Comment=157k New Comment=100K
+Added Component: Designator=R12(R 0603)
+Add component (AddParameter): Name = "BRAND"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PACKAGE"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PART NO"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "STOCK CODE"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SUPPLIER"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TYPE"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetC5_2 Pin=R12-1
+Added Pin To Net: NetName=NetR4_1 Pin=R4-1
+Added Pin To Net: NetName=NetR4_1 Pin=R12-2
+Added Net: Name=NetR4_1
+Added Member To Class: ClassName=Sheet4 Member=Component R12 51K

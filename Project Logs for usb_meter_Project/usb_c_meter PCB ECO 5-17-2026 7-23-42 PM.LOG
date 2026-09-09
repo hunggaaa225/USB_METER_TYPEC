@@ -1,0 +1,33 @@
+Added Component: Designator=J?(G-SWITCH_GT-USB-7010B)
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/GT-USB-7010B/G-switch/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "G-switch"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "GT-USB-7010B"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/GT-USB-7010B/G-switch/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Add Net: Net with name "NetC?_2" already exists
+Added Member To Class: ClassName=Sheet4 Member=Component ? C
+Added Member To Class: ClassName=Sheet4 Member=Component ? C
+Added Member To Class: ClassName=Sheet4 Member=Component ? C
+Added Member To Class: ClassName=Sheet4 Member=Component ? 100nF
+Added Member To Class: ClassName=Sheet4 Member=Component ? C
+Added Member To Class: ClassName=Sheet4 Member=Component ? 100nF
+Added Member To Class: ClassName=Sheet4 Member=Component ? R
+Added Member To Class: ClassName=Sheet4 Member=Component ? C
+Added Member To Class: ClassName=Sheet4 Member=Component C? 104
+Added Member To Class: ClassName=Sheet4 Member=Component C? 104
+Added Member To Class: ClassName=Sheet4 Member=Component C? 476
+Added Member To Class: ClassName=Sheet4 Member=Component C? 22pF
+Added Member To Class: ClassName=Sheet4 Member=Component C? 106
+Added Member To Class: ClassName=Sheet4 Member=Component J? GT-USB-7010B
+Added Member To Class: ClassName=Sheet4 Member=Component R? 10K
+Added Member To Class: ClassName=Sheet4 Member=Component R? 10K
+Added Member To Class: ClassName=Sheet4 Member=Component R? 10K
+Added Member To Class: ClassName=Sheet4 Member=Component R? 10K
+Added Member To Class: ClassName=Sheet4 Member=Component R? 15K
+Added Member To Class: ClassName=Sheet4 Member=Component R? 47K
+Added Member To Class: ClassName=Sheet4 Member=Component R? 10K
+Added Member To Class: ClassName=Sheet4 Member=Component R? 10K
+Added Member To Class: ClassName=Sheet4 Member=Component R? 0
+Added Member To Class: ClassName=Sheet4 Member=Component U? AP63201WU-7
+Added Member To Class: ClassName=Sheet4 Member=Component U? STM32F103C8T6

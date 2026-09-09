@@ -1,0 +1,10 @@
+Added Component: Designator=B?(SOT95P280X145-5N)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = "MIC5219-3.3YM5-TR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/mic5219-3.3ym5-tr/microchip-technology?utm_currency=USD&region=nac"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "http://www.microchip.com/mymicrochip/filehandler.aspx?ddocname=en579712"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Geometry.Height"; Value = "1.45mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Microchip"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "MIC5219-3.3YM5-TR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "998-MIC5219-3.3YM5TR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Microchip-Technology/MIC5219-3.3YM5-TR?qs=U6T8BxXiZAWojkIJMtSJlw%3D%3D"; VariantName = "[No Variations]"
+Added Member To Class: ClassName=Sheet4 Member=Component B? MIC5219-3.3YM5-TR

@@ -1,0 +1,110 @@
+Added Component: Designator=C?(C 0603)
+Add component (AddParameter): Name = "BRAND"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PACKAGE"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PART NO"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "STOCK CODE"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SUPPLIER"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TYPE"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R?(R 0603)
+Add component (AddParameter): Name = "BRAND"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PACKAGE"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PART NO"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "STOCK CODE"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SUPPLIER"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TYPE"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R?(R 0603)
+Add component (AddParameter): Name = "BRAND"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PACKAGE"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PART NO"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "STOCK CODE"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SUPPLIER"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TYPE"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R?(R 0603)
+Add component (AddParameter): Name = "BRAND"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PACKAGE"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PART NO"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "STOCK CODE"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SUPPLIER"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TYPE"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R?(R 0805)
+Add component (AddParameter): Name = "BRAND"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PACKAGE"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PART NO"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "STOCK CODE"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SUPPLIER"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TYPE"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R?(R 0603)
+Add component (AddParameter): Name = "BRAND"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PACKAGE"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PART NO"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "STOCK CODE"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SUPPLIER"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TYPE"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R?(R 0603)
+Add component (AddParameter): Name = "BRAND"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PACKAGE"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PART NO"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "STOCK CODE"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SUPPLIER"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TYPE"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=U?(SOP50P490X110-10N)
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/INA226AIDGSR/Texas+Instruments/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Texas Instruments"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "INA226AIDGSR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "VSSOP-10 Texas Instruments"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/INA226AIDGSR/Texas+Instruments/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=3V3 Pin=C?-1
+Added Pin To Net: NetName=GND Pin=C?-2
+Added Pin To Net: NetName=GND Pin=R?-1
+Added Pin To Net: NetName=GND Pin=R?-1
+Added Pin To Net: NetName=SCL Pin=R?-2
+Added Pin To Net: NetName=SDA Pin=R?-2
+Added Pin To Net: NetName=VBUS_IN Pin=R?-2
+Added Pin To Net: NetName=SDA Pin=U?-4
+Added Pin To Net: NetName=SCL Pin=U?-5
+Added Pin To Net: NetName=3V3 Pin=U?-6
+Added Pin To Net: NetName=GND Pin=U?-7
+Added Pin To Net: NetName=VBUS_IN Pin=U?-8
+Added Pin To Net: NetName=VBUS_IN Pin=U?-10
+Added Pin To Net: NetName=A0 Pin=R?-2
+Added Pin To Net: NetName=A0 Pin=U?-2
+Added Net: Name=A0
+Added Pin To Net: NetName=A1 Pin=R?-2
+Added Pin To Net: NetName=A1 Pin=U?-1
+Added Net: Name=A1
+Added Pin To Net: NetName=ALERT Pin=R?-2
+Added Pin To Net: NetName=ALERT Pin=U?-3
+Added Net: Name=ALERT
+Add Net: Net with name "NetC?_2" already exists
+Added Pin To Net: NetName=VBUS_OUT Pin=R?-1
+Added Pin To Net: NetName=VBUS_OUT Pin=U?-9
+Added Net: Name=VBUS_OUT
+Added Pin To Net: NetName=VCC Pin=R?-1
+Added Pin To Net: NetName=VCC Pin=R?-1
+Added Pin To Net: NetName=VCC Pin=R?-1
+Added Net: Name=VCC
+Added Member To Class: ClassName=Sheet4 Member=Component ? 100nF
+Added Member To Class: ClassName=Sheet4 Member=Component ? 100nF
+Added Member To Class: ClassName=Sheet4 Member=Component ? C
+Added Member To Class: ClassName=Sheet4 Member=Component ? C
+Added Member To Class: ClassName=Sheet4 Member=Component ? C
+Added Member To Class: ClassName=Sheet4 Member=Component ? 1uF
+Added Member To Class: ClassName=Sheet4 Member=Component ? R
+Added Member To Class: ClassName=Sheet4 Member=Component ? C
+Added Member To Class: ClassName=Sheet4 Member=Component C? 104
+Added Member To Class: ClassName=Sheet4 Member=Component C? 22pF
+Added Member To Class: ClassName=Sheet4 Member=Component C? 104
+Added Member To Class: ClassName=Sheet4 Member=Component C? 476
+Added Member To Class: ClassName=Sheet4 Member=Component C? 106
+Added Member To Class: ClassName=Sheet4 Member=Component R? 10K
+Added Member To Class: ClassName=Sheet4 Member=Component R? 10K
+Added Member To Class: ClassName=Sheet4 Member=Component R? 10K
+Added Member To Class: ClassName=Sheet4 Member=Component R? 10K
+Added Member To Class: ClassName=Sheet4 Member=Component R? 10K
+Added Member To Class: ClassName=Sheet4 Member=Component R? 47K
+Added Member To Class: ClassName=Sheet4 Member=Component R? 0
+Added Member To Class: ClassName=Sheet4 Member=Component R? 10K
+Added Member To Class: ClassName=Sheet4 Member=Component R? 15K
+Added Member To Class: ClassName=Sheet4 Member=Component U? STM32F103C8T6
+Added Member To Class: ClassName=Sheet4 Member=Component U? AP63201WU-7
