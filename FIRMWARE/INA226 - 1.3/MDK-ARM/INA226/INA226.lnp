@@ -1,0 +1,25 @@
+--cpu Cortex-M3
+"ina226\startup_stm32f103xb.o"
+"ina226\anglas_ina226.o"
+"ina226\anglas_oled_ssd1306.o"
+"ina226\main.o"
+"ina226\stm32f1xx_it.o"
+"ina226\stm32f1xx_hal_msp.o"
+"ina226\stm32f1xx_hal_gpio_ex.o"
+"ina226\stm32f1xx_hal_i2c.o"
+"ina226\stm32f1xx_hal.o"
+"ina226\stm32f1xx_hal_rcc.o"
+"ina226\stm32f1xx_hal_rcc_ex.o"
+"ina226\stm32f1xx_hal_gpio.o"
+"ina226\stm32f1xx_hal_dma.o"
+"ina226\stm32f1xx_hal_cortex.o"
+"ina226\stm32f1xx_hal_pwr.o"
+"ina226\stm32f1xx_hal_flash.o"
+"ina226\stm32f1xx_hal_flash_ex.o"
+"ina226\stm32f1xx_hal_exti.o"
+"ina226\stm32f1xx_hal_uart.o"
+"ina226\system_stm32f1xx.o"
+--strict --scatter "INA226\INA226.sct"
+--summary_stderr --info summarysizes --map --load_addr_map_info --xref --callgraph --symbols
+--info sizes --info totals --info unused --info veneers
+--list "INA226.map" -o INA226\INA226.axf
